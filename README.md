@@ -14,9 +14,9 @@ _These images are AI generated , and they are under CC License: Creative Commons
 
 ### Visual Design Concept  
 
-|🖼️|🖼️|
-|---|---|
-|![](images/ring-glimmer.jpeg)|![](images/shattered-clock.jpeg)|
+|🖼️|🖼️| 
+|---|---| 
+|![](images/ring-glimmer.jpeg)|![](images/shattered-clock.jpeg)| 
 
 
 > Time Instruments, Mirrors, Reflections, Broken Pieces, Shiny Surfaces, Reflections, Connection concepts of the past, present, and the future, Aesthetic value of African contextual environment.
