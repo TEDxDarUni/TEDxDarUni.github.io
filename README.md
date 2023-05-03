@@ -29,9 +29,9 @@ _These images are AI generated , and they are under CC License: Creative Commons
 |---|---|---|
 |![](images/sdg-9.png)|![](images/sdg-11.png)|![](images/sdg-17.png)|
 
->- [x] SDG 9 | Industry, Innovation and Infrastructure
->- [x] SDG 11 | Sustainable Cities and Communities  
->- [x] SDG 17 | Partnership for the Goals
+>- [x] SDG 9  [ Industry, Innovation and Infrastructure ]
+>- [x] SDG 11 [ Sustainable Cities and Communities ] 
+>- [x] SDG 17 [ Partnership for the Goals]
 
 >The theme touches mainly on the above three SDGs since our speakers and theme is targeted to the sect of community that is building now, for tomorrow, to ensure sustainable living in our communities and drive action by partnering with other SDGs champions i.e, institutions.
 > Note that theme it's not limited to only the three SDGs but maily addresses the 3.
