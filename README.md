@@ -1,8 +1,11 @@
 
-# TEDxUdsm 2023
+## TEDxUdsm 2023
 
 # TEDxUniversityOfDarEsSalaam 
 
+## About the Vision
+
+> The elegant and colorful vision of bringing the Tanzanian community to the international spotlight showing the world what Tanzanians are doing to make a difference in their country and the world at large. As we are in a rapidly changing world where we face a lot of challenges, Tanzanians are taking amazing initiatives to build a better society for the current and the next generation. It is then we challenge ourselves to bring these individuals to the spotlight so as they can channel their ideas, visions, and experiences to other Tanzanians and the world so that others can be aspired and inspired to make the world a better place. 
 
 |🖼️|🖼️|🖼️|
 |---|---|---|
@@ -54,4 +57,4 @@ _These images are AI generated , and they are under CC License: Creative Commons
 
 > Reflection is also often seen as a way to connect with one's ancestors and the spiritual world. Many African cultures place great importance on the idea of ancestor reverence, and reflection is seen as a way to honour and connect with one's ancestors and the spirit world.   
 
-> Overall, the theme of reflection in African culture is closely tied to the values of compassion, empathy, spiritual growth, and connection to others and the spiritual world. It is an important aspect of African culture that helps individuals to gain insight, wisdom, and understanding and live a more fulfilling and meaningful life. 
+> Thus, the theme of reflection in African culture is closely tied to the values of compassion, empathy, spiritual growth, and connection to others and the spiritual world. It is an important aspect of African culture that helps individuals to gain insight, wisdom, and understanding and live a more fulfilling and meaningful life. 
